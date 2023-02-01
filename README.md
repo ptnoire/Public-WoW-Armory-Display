@@ -7,3 +7,6 @@ that she can easily see what she has and doesn't have.
 using the blizz api, i got most of this done. Just have to compare to a master list (maybe find an API  or just take from something else.
 
 and also style the website too, I guess that would be nice. CSS skills woo.
+
+
+Edit: API usage is blocked based off something, need to go figure it out and read documentation for long-term use. Plan to update feature list soon, just a personal project.
